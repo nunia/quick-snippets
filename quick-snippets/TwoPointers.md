@@ -1,4 +1,4 @@
-# 1. General Template for Two Pointers in Java (reduces time complexity from O(n²) to O(n))
+# General Template for Two Pointers in Java (reduces time complexity from O(n²) to O(n))
 
 ```Java
 
